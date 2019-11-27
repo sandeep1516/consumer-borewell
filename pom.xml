@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>com.borewellapp.buil.Maven.java</finalName>
+    <finalName>patching-testing/finalName>
   </build>
 </project>
